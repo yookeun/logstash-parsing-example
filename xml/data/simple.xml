@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<simpleData>
+    <simpleInfo>
+        <userName>kim</userName>
+        <age>40</age>
+        <gender>male</gender>
+        <regDate>2018-01-01 00:00:00</regDate>
+    </simpleInfo>
+    <simpleInfo>
+        <userName>lee</userName>
+        <age>41</age>
+        <gender>female</gender>
+        <regDate>2018-01-02 00:00:00</regDate>
+    </simpleInfo>
+    <simpleInfo>
+        <userName>park</userName>
+        <age>42</age>
+        <gender>female</gender>
+        <regDate>2018-01-03 00:00:00</regDate>
+    </simpleInfo>    
+</simpleData>
