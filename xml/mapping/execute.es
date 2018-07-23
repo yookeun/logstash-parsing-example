@@ -22,8 +22,7 @@ PUT simple-xml
                             "type": "keyword"
                         },
                         "regDate": {
-                            "type": "date",
-                            "format":"YYYY-MM-DD HH:mm:ss"
+                            "type": "date"                            
                         }
                     }
                 }
