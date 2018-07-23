@@ -15,7 +15,7 @@ PUT simple-xml
                         "gender": {
                             "type": "keyword"
                         },
-                        "birthDate": {
+                        "regDate": {
                             "type": "date"
                         }
                     }
